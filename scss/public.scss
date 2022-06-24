@@ -1,0 +1,97 @@
+
+.app-header{
+    margin-bottom: 5px;
+     padding:2px;
+}
+.app-footer{
+    border: none;
+    text-align: center;
+}
+.light{
+    background-color: white;
+    width:auto;
+   
+  }
+  .dark{
+    
+    background-color:#2A2D2E;
+    width:auto;
+    color: white;
+   
+
+      }
+      .parent-container{
+        background-color:white;
+        width:auto;
+        border: unset;
+      }
+      .toolbar{
+        background-color: rgb(142, 233, 195);
+        margin-top: 5px;
+        border-radius: 15px;
+      }
+     
+  .child-container{
+    max-height:800px;
+    overflow-y: scroll;
+    border:1px solid whitesmoke;
+    overflow-x:scroll;
+    border-radius:5px;
+    width:auto;
+    padding-left:5px;
+    padding-right: 15px;
+    padding-top:10px;
+    margin: 5px;
+}
+
+.content-header{
+    color: blue;
+    font-weight: bold;
+    background-color: white;
+    text-align: center;
+    border-radius: 5px;
+    border: 2px solid whitesmoke;
+    margin: 5px;
+    margin-top: 10px;
+
+}
+.close-button{
+    float: right;
+    font-weight: bold;
+    font-size: large;
+    border:unset;
+    background-color: unset;
+    color: red;
+
+}
+.req{
+font-weight: bold;}
+.hidealert{
+    display: none;
+  }
+  .showalert{
+    display: block;
+  }
+  span{
+    font-weight: normal;
+}
+
+
+  a{
+      cursor: pointer;
+  }
+  .bar{
+background: white;
+color: red;
+margin-top: 10px;
+  }
+  .bar-icon{
+margin-right: 30px;
+  }
+  .dark{
+background-color:rgb(33, 35, 36);
+width:auto;
+color: white;
+
+  }
+ 
